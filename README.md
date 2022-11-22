@@ -1,3 +1,3 @@
 # Projetos_Lucas
 
-Repositório destinado a projetos pessoais.
+Repositório destinado a projetos pessoais..
