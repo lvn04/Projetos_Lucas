@@ -1,0 +1,5 @@
+continued_operations;costs;cvm_code;discontinued_operations;ebit;gross_income;net_income;net_income_controlling;net_income_non_controlling;net_sales;non_operating_income;operating_expenses;period_end;period_init;period_type;profit_before_taxes;taxes;code_partition
+-206694000;0;23485;0;-209760000;0;-206694000;"";"";0;3348000;-209760000;2016-12-31;2016-01-01;year;-206412000;-282000;23485
+-79515000;0;23485;0;-77234000;0;-79515000;"";"";0;-984000;-77234000;2017-12-31;2017-01-01;year;-78218000;-1297000;23485
+74643000;0;23485;0;74127000;0;74643000;"";"";0;516000;74127000;2018-12-31;2018-01-01;year;74643000;0;23485
+213937000;0;23485;0;213626000;0;213937000;"";"";0;311000;213626000;2019-12-31;2019-01-01;year;213937000;0;23485

@@ -1,0 +1,6 @@
+continued_operations;costs;cvm_code;discontinued_operations;ebit;gross_income;net_income;net_income_controlling;net_income_non_controlling;net_sales;non_operating_income;operating_expenses;period_end;period_init;period_type;profit_before_taxes;taxes;code_partition
+0;0;22764;0;0;0;0;"";"";0;0;0;2011-12-31;2011-01-01;year;0;0;22764
+-95687;0;22764;0;-97416;0;-95687;"";"";0;1729;-97416;2012-12-31;2012-01-02;year;-95687;0;22764
+459000;-83000;22764;0;580000;781000;459000;"";"";864000;30000;-201000;2013-12-31;2013-01-01;year;610000;-151000;22764
+49000;-40000;22764;0;47000;424000;49000;"";"";464000;17000;-377000;2014-12-31;2014-01-01;year;64000;-15000;22764
+-239000;-9000;22764;0;-281000;79000;-239000;"";"";88000;42000;-360000;2015-12-31;2015-01-01;year;-239000;0;22764
