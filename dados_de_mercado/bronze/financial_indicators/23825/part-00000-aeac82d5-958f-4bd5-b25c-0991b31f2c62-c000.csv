@@ -1,0 +1,4 @@
+asset_turnover;cash_liquidity;current_liquidity;cvm_code;ebit_margin;ebitda;ebitda_margin;gross_debt;gross_margin;net_debt;net_margin;operating_margin;period_end;period_init;period_type;quick_liquidity;return_on_assets;return_on_equity;total_debt;working_capital;code_partition
+0.0;2.0E-4;0.1856;23825;12.5274;6.903E7;4.1677;0.0;21.8636;-4000.0;5.5253;5.3043;2015-12-31;2015-01-01;year;0.1856;0.082;8.4394;2.9673;-1.92E7;23825
+0.0;0.0101;0.4651;23825;10.4491;3.9533E7;6.5199;0.0;24.2686;-889000.0;2.1685;2.6964;2016-12-31;2016-01-01;year;0.4651;0.049;5.5;12.1506;-4.6906E7;23825
+0.0;1.5851;6.3214;23825;10.2151;7.052E7;7.1868;5.45547E8;26.1294;3.09123E8;2.6931;3.6594;2017-12-31;2017-01-01;year;6.3214;0.0358;5.1731;44.4256;2.2374E8;23825

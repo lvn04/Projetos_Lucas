@@ -1,0 +1,3 @@
+asset_turnover;cash_liquidity;current_liquidity;cvm_code;ebit_margin;ebitda;ebitda_margin;gross_debt;gross_margin;net_debt;net_margin;operating_margin;period_end;period_init;period_type;quick_liquidity;return_on_assets;return_on_equity;total_debt;working_capital;code_partition
+0.0;1.644;9.5322;26247;21.6776;1.42594E8;7.3583;99.0;44.8644;-7.1479901E7;6.6843;14.0326;2020-12-31;2020-01-01;year;9.5322;0.0591;6209.5726;5113.3401;3.7097E8;26247
+0.0;3.2336;5.4321;26247;24.6654;2.22568E8;12.2136;5.5894E7;45.5037;-1.90367E8;10.4623;17.4822;2021-12-31;2021-01-01;year;5.4321;0.0849;9.1459;7.7834;3.37534E8;26247
