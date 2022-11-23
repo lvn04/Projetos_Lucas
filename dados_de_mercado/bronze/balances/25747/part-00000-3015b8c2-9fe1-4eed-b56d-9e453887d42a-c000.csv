@@ -1,0 +1,5 @@
+assets;biological_assets;cash;current_assets;current_liabilities;cvm_code;equity;equity_non_controlling;financial_investments;fixed_assets;intangible_assets;inventories;investments;liabilities;loans;long_term_loans;noncurrent_assets;noncurrent_liabilities;receivables;reference_date;suppliers;code_partition
+0;0;0;0;0;25747;0;0;0;0;0;0;0;0;0;0;0;0;0;2019-12-31;0;25747
+59038000;0;0;0;6000;25747;59032000;0;0;0;0;0;59038000;59038000;0;0;59038000;0;0;2020-12-31;6000;25747
+180356000;0;8000;743000;3175000;25747;79090000;0;0;0;0;0;177307000;180356000;0;0;179613000;98091000;0;2021-03-31;817000;25747
+1015756000;0;4000;411085000;33510000;25747;921911000;0;410833000;0;0;0;581090000;1015756000;0;0;604671000;60335000;0;2021-06-30;1337000;25747
