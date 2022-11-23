@@ -1,0 +1,6 @@
+amount;approval_date;cvm_code;ex_date;notes;payable_date;record_date;ticker;type;code_partition
+2.15;"";19305;2006-04-28;"";2006-07-31;2006-04-27;BIOM3;interest;19305
+4.3;"";19305;2005-12-14;"";2005-12-15;2005-12-05;BIOM3;dividend;19305
+15.05;"";19305;2005-08-30;"";2005-08-31;2005-08-22;BIOM3;interest;19305
+2.6;"";19305;2005-08-30;"";2005-08-31;2005-08-22;BIOM3;dividend;19305
+5.93;"";19305;2005-05-12;"";2005-05-10;2005-04-28;BIOM3;dividend;19305

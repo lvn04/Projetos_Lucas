@@ -1,0 +1,5 @@
+amount;approval_date;cvm_code;ex_date;notes;payable_date;record_date;ticker;type;code_partition
+0.0498083;2002-03-28;11223;2002-09-17;"";2002-05-28;2002-03-28;TEKA3;dividend;11223
+0.0547891;2002-03-28;11223;2002-04-01;"";2002-05-28;2002-03-28;TEKA4;dividend;11223
+0.01;1998-10-22;11223;2001-03-08;"";"";1998-10-28;TEKA3;dividend;11223
+0.0296958;1997-04-30;11223;2001-03-08;"";"";1997-04-30;TEKA3;dividend;11223

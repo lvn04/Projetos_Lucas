@@ -1,0 +1,5 @@
+amount;approval_date;cvm_code;ex_date;notes;payable_date;record_date;ticker;type;code_partition
+0.090834546;"";25119;2022-04-26;"";2022-05-30;2022-04-25;MELK3;dividend;25119
+0.069243706;"";25119;2021-12-23;"";2021-12-30;2021-12-22;MELK3;dividend;25119
+0.207731118;"";25119;2021-11-17;"";2021-11-24;2021-11-16;MELK3;dividend;25119
+0.00635;2021-04-26;25119;2021-04-27;"";2021-05-31;2021-04-26;MELK3;dividend;25119

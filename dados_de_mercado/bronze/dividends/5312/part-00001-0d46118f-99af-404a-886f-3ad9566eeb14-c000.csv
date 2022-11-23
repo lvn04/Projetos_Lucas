@@ -1,0 +1,5 @@
+amount;approval_date;cvm_code;ex_date;notes;payable_date;record_date;ticker;type;code_partition
+0.00897187;"";5312;2007-06-13;"";2007-10-09;2007-06-08;MNDL3;interest;5312
+0.1022;"";5312;2004-03-18;"";"";2003-08-15;MNDL3;interest;5312
+0.1079;"";5312;2004-03-18;"";"";2002-07-18;MNDL3;dividend;5312
+0.0068;"";5312;2004-03-18;"";1996-11-18;1996-11-04;MNDL3;dividend;5312

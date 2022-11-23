@@ -1,0 +1,4 @@
+amount;approval_date;cvm_code;ex_date;notes;payable_date;record_date;ticker;type;code_partition
+0.055060858;"";26069;2022-09-28;"";2022-10-20;2022-09-27;ARML3;interest;26069
+0.043469098;"";26069;2022-09-28;"";2022-10-20;2022-09-27;ARML3;dividend;26069
+0.031886198;"";26069;2022-07-01;"";2022-07-22;2022-06-30;ARML3;dividend;26069

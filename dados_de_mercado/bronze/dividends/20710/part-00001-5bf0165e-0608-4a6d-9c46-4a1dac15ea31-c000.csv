@@ -1,0 +1,4 @@
+amount;approval_date;cvm_code;ex_date;notes;payable_date;record_date;ticker;type;code_partition
+0.114746;"";20710;2008-04-07;"";2008-04-28;2008-04-04;LOGN3;interest;20710
+0.067403;2008-03-04;20710;2008-03-05;"";2008-04-28;2008-03-04;LOGN3;dividend;20710
+0.114746;2008-03-04;20710;2008-03-05;"";2008-04-28;2008-03-04;LOGN3;interest;20710

@@ -1,0 +1,4 @@
+amount;approval_date;cvm_code;ex_date;notes;payable_date;record_date;ticker;type;code_partition
+0.028555113;"";25330;2021-09-16;"";2021-09-30;2021-09-15;ALLD3;dividend;25330
+0.097948098;"";25330;2021-09-16;"";2021-09-30;2021-09-15;ALLD3;dividend;25330
+0.337139337;"";25330;2021-09-16;"";2021-09-30;2021-09-15;ALLD3;interest;25330

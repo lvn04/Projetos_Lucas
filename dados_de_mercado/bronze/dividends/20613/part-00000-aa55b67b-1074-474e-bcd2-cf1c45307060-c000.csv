@@ -1,0 +1,4 @@
+amount;approval_date;cvm_code;ex_date;notes;payable_date;record_date;ticker;type;code_partition
+0.2337;"";20613;2011-06-29;"";2011-07-15;2011-06-28;FRIO3;interest;20613
+0.449;2011-04-07;20613;2011-04-08;"";2011-04-19;2011-04-07;FRIO3;dividend;20613
+0.302;2010-05-06;20613;2010-05-10;"";2010-05-19;2010-05-07;FRIO3;dividend;20613

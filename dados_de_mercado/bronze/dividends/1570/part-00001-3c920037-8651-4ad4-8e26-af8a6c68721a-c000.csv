@@ -1,0 +1,5 @@
+amount;approval_date;cvm_code;ex_date;notes;payable_date;record_date;ticker;type;code_partition
+0.2642;2016-04-25;1570;2016-04-26;"";2016-06-21;2016-04-25;BAUH4;dividend;1570
+0.45614;2015-04-23;1570;2015-04-24;"";2015-06-23;2015-04-23;BAUH4;dividend;1570
+0.18574;2014-04-24;1570;2014-04-30;"";2014-06-18;2014-04-24;BAUH4;dividend;1570
+0.1;1996-04-10;1570;2000-12-21;"";1996-04-17;1996-04-10;BAUH4;dividend;1570

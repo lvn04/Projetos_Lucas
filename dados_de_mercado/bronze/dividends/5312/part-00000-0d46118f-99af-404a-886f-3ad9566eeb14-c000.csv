@@ -1,0 +1,5 @@
+amount;approval_date;cvm_code;ex_date;notes;payable_date;record_date;ticker;type;code_partition
+0.0448;"";5312;2011-05-30;"";2011-11-29;2011-05-27;MNDL3;interest;5312
+0.0409;"";5312;2008-05-09;"";"";2008-05-08;MNDL3;interest;5312
+0.00847265;"";5312;2008-05-09;"";2008-07-08;2008-05-08;MNDL3;interest;5312
+0.0435;"";5312;2007-06-13;"";"";2007-06-08;MNDL3;interest;5312

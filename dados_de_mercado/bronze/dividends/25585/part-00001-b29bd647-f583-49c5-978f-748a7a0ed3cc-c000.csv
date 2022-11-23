@@ -1,0 +1,4 @@
+amount;approval_date;cvm_code;ex_date;notes;payable_date;record_date;ticker;type;code_partition
+0.086308917;"";25585;2021-12-30;"";2022-01-20;2021-12-29;CMIN3;interest;25585
+0.330526359;2021-07-27;25585;2021-08-02;"";2021-08-10;2021-07-30;CMIN3;dividend;25585
+0.051581582;2021-04-30;25585;2021-05-03;"";2021-08-10;2021-04-30;CMIN3;dividend;25585

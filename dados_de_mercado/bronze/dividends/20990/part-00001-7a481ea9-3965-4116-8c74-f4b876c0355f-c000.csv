@@ -1,0 +1,4 @@
+amount;approval_date;cvm_code;ex_date;notes;payable_date;record_date;ticker;type;code_partition
+0.1026107;2010-03-11;20990;2010-03-22;"";2010-04-12;2010-03-19;BTOW3;dividend;20990
+0.1634302;2009-03-12;20990;2009-03-23;"";2009-04-13;2009-03-20;BTOW3;dividend;20990
+0.132414;2008-03-06;20990;2008-03-17;"";2008-04-02;2008-03-14;BTOW3;dividend;20990

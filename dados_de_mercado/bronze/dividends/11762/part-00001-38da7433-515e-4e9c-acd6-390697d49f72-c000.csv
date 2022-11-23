@@ -1,0 +1,4 @@
+amount;approval_date;cvm_code;ex_date;notes;payable_date;record_date;ticker;type;code_partition
+0.67113421;2009-06-01;11762;2009-06-02;"";2010-05-31;2009-06-01;VULC3;dividend;11762
+0.135648228;2008-04-28;11762;2008-04-30;"";2008-06-13;2008-04-28;VULC3;dividend;11762
+0.14151417;2007-05-11;11762;2007-06-13;"";2007-06-29;2007-05-11;VULC3;dividend;11762

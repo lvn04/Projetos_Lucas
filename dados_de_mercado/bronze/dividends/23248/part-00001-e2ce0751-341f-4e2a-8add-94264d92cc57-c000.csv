@@ -1,0 +1,4 @@
+amount;approval_date;cvm_code;ex_date;notes;payable_date;record_date;ticker;type;code_partition
+0.1875;2016-04-25;23248;2016-04-26;"";2016-05-16;2016-04-25;ANIM3;dividend;23248
+0.4728;2015-03-30;23248;2015-03-31;"";2015-04-15;2015-03-30;ANIM3;dividend;23248
+0.11002;2014-04-30;23248;2014-05-02;"";2014-05-15;2014-04-30;ANIM3;dividend;23248

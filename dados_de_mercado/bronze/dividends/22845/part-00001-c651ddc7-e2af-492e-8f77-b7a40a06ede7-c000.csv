@@ -1,0 +1,6 @@
+amount;approval_date;cvm_code;ex_date;notes;payable_date;record_date;ticker;type;code_partition
+2.15;"";22845;2013-04-19;"";2006-07-31;2006-04-27;BSEV3;interest;22845
+4.3;"";22845;2013-04-19;"";2005-12-15;2005-12-05;BSEV3;dividend;22845
+15.05;"";22845;2013-04-19;"";2005-08-31;2005-08-22;BSEV3;interest;22845
+2.6;"";22845;2013-04-19;"";2005-08-31;2005-08-22;BSEV3;dividend;22845
+5.93;"";22845;2013-04-19;"";2005-05-10;2005-04-28;BSEV3;dividend;22845

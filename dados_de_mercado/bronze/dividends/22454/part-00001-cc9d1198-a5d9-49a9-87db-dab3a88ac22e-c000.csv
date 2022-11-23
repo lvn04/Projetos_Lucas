@@ -1,0 +1,4 @@
+amount;approval_date;cvm_code;ex_date;notes;payable_date;record_date;ticker;type;code_partition
+0.09355864;2017-04-20;22454;2017-04-27;"";2017-05-19;2017-04-26;SHOW3;dividend;22454
+0.02931974;2016-04-20;22454;2016-04-22;"";2016-05-20;2016-04-20;SHOW3;dividend;22454
+0.205878;2012-04-27;22454;2012-04-30;"";2012-07-11;2012-04-27;SHOW3;dividend;22454

@@ -1,0 +1,4 @@
+amount;approval_date;cvm_code;ex_date;notes;payable_date;record_date;ticker;type;code_partition
+0.052843983;2021-04-30;24805;2021-05-03;"";2021-05-14;2021-04-30;VIVA3;dividend;24805
+0.105843506;2020-12-22;24805;2020-12-30;"";2021-05-14;2020-12-29;VIVA3;interest;24805
+0.1693496;2019-12-20;24805;2019-12-30;"";2020-12-15;2019-12-27;VIVA3;interest;24805

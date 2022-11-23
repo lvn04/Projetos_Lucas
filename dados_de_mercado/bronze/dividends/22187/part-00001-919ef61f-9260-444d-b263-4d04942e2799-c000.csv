@@ -1,0 +1,6 @@
+amount;approval_date;cvm_code;ex_date;notes;payable_date;record_date;ticker;type;code_partition
+2.15;"";22187;2015-06-26;"";2006-07-31;2006-04-27;PRIO3;interest;22187
+4.3;"";22187;2015-06-26;"";2005-12-15;2005-12-05;PRIO3;dividend;22187
+15.05;"";22187;2015-06-26;"";2005-08-31;2005-08-22;PRIO3;interest;22187
+2.6;"";22187;2015-06-26;"";2005-08-31;2005-08-22;PRIO3;dividend;22187
+5.93;"";22187;2015-06-26;"";2005-05-10;2005-04-28;PRIO3;dividend;22187

@@ -1,0 +1,6 @@
+amount;approval_date;cvm_code;ex_date;notes;payable_date;record_date;ticker;type;code_partition
+2.15;"";17914;2006-07-24;"";2006-07-31;2006-04-27;MMXM3;interest;17914
+4.3;"";17914;2006-07-24;"";2005-12-15;2005-12-05;MMXM3;dividend;17914
+15.05;"";17914;2006-07-24;"";2005-08-31;2005-08-22;MMXM3;interest;17914
+2.6;"";17914;2006-07-24;"";2005-08-31;2005-08-22;MMXM3;dividend;17914
+5.93;"";17914;2006-07-24;"";2005-05-10;2005-04-28;MMXM3;dividend;17914

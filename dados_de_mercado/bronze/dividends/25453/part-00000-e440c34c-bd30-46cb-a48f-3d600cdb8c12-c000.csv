@@ -1,0 +1,4 @@
+amount;approval_date;cvm_code;ex_date;notes;payable_date;record_date;ticker;type;code_partition
+0.126559108;"";25453;2022-08-02;"";2022-08-15;2022-08-01;INTB3;dividend;25453
+0.060693544;"";25453;2022-06-29;"";2022-08-15;2022-06-28;INTB3;interest;25453
+0.145755615;"";25453;2022-03-11;"";2022-03-21;2022-03-10;INTB3;dividend;25453
