@@ -1,0 +1,5 @@
+data_fundacao;codigo_cvm;nome_empresa;nome_empresa_b3;cnpj;codigo_b3;setor_atuacao;subsetor_atuacao;segmento;atividade_principal;listada_b3;site_empresa
+1946-07-12;6505;Via S.a.;Via;33041260065290;VIIA;Consumo Ciclico;Comercio;Eletrodomesticos;"";Sim;http://www.viavarejo.com.br/ri
+1972-06-06;14346;Whirlpool S.a.;Whirlpool;59105999000186;WHRL;Consumo Ciclico;Utilidades Domesticas;Eletrodomesticos;Fabricação E Comercialização de Eletrodomésticos;Sim;http://www.whirlpool.com.br
+1957-10-30;22470;Magazine Luiza S.a.;Magazine Luiza;47960950000121;MGLU;Consumo Ciclico;Comercio;Eletrodomesticos;Somos Uma Rede Varejista E Atuamos Com Foco Na Comercialização de Bens Duráveis No Brasil.;Sim;https://ri.magazineluiza.com.br/
+2014-04-10;25330;Allied Tecnologia S.a.;Allied;20247322000147;ALLD;Consumo Ciclico;Comercio;Eletrodomesticos;Desenvolvimento E Licenciamento de Plataformas Digitais Para Comercialização de Serviços de Tecnologia. Além de Soluções Logísticas E de Distribuição de Produtos.;Sim;""

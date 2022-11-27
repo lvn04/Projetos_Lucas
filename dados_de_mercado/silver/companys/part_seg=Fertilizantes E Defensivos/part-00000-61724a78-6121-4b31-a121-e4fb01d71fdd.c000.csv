@@ -1,0 +1,4 @@
+data_fundacao;codigo_cvm;nome_empresa;nome_empresa_b3;cnpj;codigo_b3;setor_atuacao;subsetor_atuacao;segmento;atividade_principal;listada_b3;site_empresa
+1968-09-15;20621;Fertilizantes Heringer S.a.;Fertilizantes Heringer;22266175000188;FHER;Materiais Basicos;Quimicos;Fertilizantes E Defensivos;Produção. Comercialização E Distribuição de Fertilizantes. Com Atuação Nacional.;Sim;http://www.heringer.com.br
+1979-01-01;21334;Nutriplant Industria E Comercio S/a;Nutriplant;51128999000190;NUTR;Materiais Basicos;Quimicos;Fertilizantes E Defensivos;Industria E Comércio de Fertilizantes Para Agricultura.;Sim;http://www.nutriplant.com.br/ri
+1971-06-16;25763;Vittia Fertilizantes E Biologicos S.a.;Vittia;45365558000109;VITT;Materiais Basicos;Quimicos;Fertilizantes E Defensivos;Produção de Fertilizantes Especiais E Defensivos Biológicos.;Sim;""

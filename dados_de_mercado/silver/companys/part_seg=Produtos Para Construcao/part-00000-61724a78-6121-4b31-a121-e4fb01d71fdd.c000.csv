@@ -1,0 +1,4 @@
+data_fundacao;codigo_cvm;nome_empresa;nome_empresa_b3;cnpj;codigo_b3;setor_atuacao;subsetor_atuacao;segmento;atividade_principal;listada_b3;site_empresa
+1940-01-30;5762;Eternit S.a.;Eternit;61092037000181;ETER;Bens Industriais;Construcao E Engenharia;Produtos Para Construcao;Industrialização E Comercialização de Produtos de Fibrocimento. Cimento. Concreto. Gesso. Produtos de Matéria Plástica. Bem Como Outros Materiais de Construção E Respectivos Acessórios.;Sim;http://www.eternit.com.br/ri
+1946-05-02;13366;Haga S.a. Industria E Comercio;Haga;30540991000166;HAGA;Bens Industriais;Construcao E Engenharia;Produtos Para Construcao;Industria Metalúrgica - Fab. de Fechaduras P/construção Civil;Sim;http://www.haga.com.br
+1778-09-05;13773;Pbg S.a.;Portobello;83475913000191;PTBL;Bens Industriais;Construcao E Engenharia;Produtos Para Construcao;"";Sim;http://www.portobello.com.br

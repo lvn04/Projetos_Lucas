@@ -1,0 +1,4 @@
+data_fundacao;codigo_cvm;nome_empresa;nome_empresa_b3;cnpj;codigo_b3;setor_atuacao;subsetor_atuacao;segmento;atividade_principal;listada_b3;site_empresa
+1972-01-01;20362;Positivo Tecnologia S.a.;Positivo;81243735000148;POSI;Tecnologia Da Informacao;Computadores E Equipamentos;Computadores E Equipamentos;Fabricação de Hardware.;Sim;http://www.positivoinformatica.com.br/ri
+1974-01-11;25453;Intelbras S.a.;Intelbras;82901000000127;INTB;Tecnologia Da Informacao;Computadores E Equipamentos;Computadores E Equipamentos;A Companhia Tem Como Atividade Principal A Exploração Da Indústria de Eletrónicos.;Sim;""
+1988-11-21;26034;Multilaser Industrial S.a.;Multilaser;59717553000102;MLAS;Tecnologia Da Informacao;Computadores E Equipamentos;Computadores E Equipamentos;Fabricação de Periféricos Para Equipamentos de Informática;Sim;https://www.multilaser.com.br/

@@ -1,0 +1,12 @@
+data_fundacao;codigo_cvm;nome_empresa;nome_empresa_b3;cnpj;codigo_b3;setor_atuacao;subsetor_atuacao;segmento;atividade_principal;listada_b3;site_empresa
+1883-04-02;3077;Companhia De Fiacao E Tecidos Cedro Cachoeira;Cedro Textil;17245234000100;CEDO;Consumo Ciclico;Tecidos, Vestuario E Calcados;Fios E Tecidos;Indústria Têxtil;Sim;http://www.cedro.com.br
+1967-12-05;3158;Companhia De Tecidos Norte De Minas;Coteminas;22677520000176;CTNM;Consumo Ciclico;Tecidos, Vestuario E Calcados;Fios E Tecidos;Holding;Sim;http://www.ctnm.com.br
+1936-11-12;3395;Companhia Industrial Cataguases;Ind Cataguas;19526748000150;CATA;Consumo Ciclico;Tecidos, Vestuario E Calcados;Fios E Tecidos;Indústria Têxtil E A Comercialização de Fios E Tecidos em Geral E Produtos Intermediários Têxteis.;Sim;http://www.cataguases.com.br
+1891-10-23;4081;Cia Tecidos Santanense;Santanense;21255567000189;CTSA;Consumo Ciclico;Tecidos, Vestuario E Calcados;Fios E Tecidos;Indústria Têxtil;Sim;http://www.santanense.com.br
+1933-12-23;4146;Karsten S.a.;Karsten;82640558000104;CTKA;Consumo Ciclico;Tecidos, Vestuario E Calcados;Fios E Tecidos;Fabricação. Exportação. Importação E O Comércio Atacadista E Varejista de Fios. Tecidos E Produtos Têxteis em Geral.;Sim;http://www.karsten.com.br
+1755-12-09;5207;Dohler S.a.;Dohler;84683408000103;DOHL;Consumo Ciclico;Tecidos, Vestuario E Calcados;Fios E Tecidos;Tecelagem de Fios de Algodão E Fibras Sintéticas;Sim;http://www.dohler.com.br
+1925-04-24;7544;Textil Renauxview S/a;Tex Renaux;82982075000180;TXRX;Consumo Ciclico;Tecidos, Vestuario E Calcados;Fios E Tecidos;Fiação E Tecelagem de Algodão;Sim;http://www.renauxview.com.br
+1964-06-11;9539;Pettenati S.a - Industria Textil;Pettenati;88613658000110;PTNT;Consumo Ciclico;Tecidos, Vestuario E Calcados;Fios E Tecidos;"";Sim;http://www.pettenati.com.br
+1935-04-06;11223;Teka Tecelagem Kuehnrich S.a.;Teka;82636986000155;TEKA;Consumo Ciclico;Tecidos, Vestuario E Calcados;Fios E Tecidos;Fabricação de Artigos de Cama. Mesa E Banho;Sim;http://www.teka.com.br
+1997-05-30;16497;Empresa Nacional De Comercio, Redito E Participacoes S.a.;Encorpar;01971614000183;ECPR;Consumo Ciclico;Tecidos, Vestuario E Calcados;Fios E Tecidos;Holding;Sim;http://www.encopar.com.br
+2005-11-24;20966;Springs Global Participacoes S/a;Springs;07718269000157;SGPS;Consumo Ciclico;Tecidos, Vestuario E Calcados;Fios E Tecidos;"";Sim;http://www.springs.com

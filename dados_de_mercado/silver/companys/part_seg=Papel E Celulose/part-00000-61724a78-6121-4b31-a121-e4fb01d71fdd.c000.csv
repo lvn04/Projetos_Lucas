@@ -1,0 +1,5 @@
+data_fundacao;codigo_cvm;nome_empresa;nome_empresa_b3;cnpj;codigo_b3;setor_atuacao;subsetor_atuacao;segmento;atividade_principal;listada_b3;site_empresa
+1967-11-30;3654;Companhia Melhoramentos De Sao Paulo;Melhoramentos;60730348000166;MSPA;Materiais Basicos;Madeira E Papel;Papel E Celulose;"";Sim;http://www.melhoramentos.com.br
+1954-02-26;9067;Suzano Holding S.a.;Suzano Hold;60651809000105;NEMO;Materiais Basicos;Madeira E Papel;Papel E Celulose;Sociedade Holding - Participação Como Acionista Ou Quotista No Capital Social de Outras Sociedades;Sim;http://www.suzano.com.br
+1978-11-08;12653;Klabin S.a.;Klabin;89637490000145;KLBN;Materiais Basicos;Madeira E Papel;Papel E Celulose;Empresa Brasileira de Base Florestal. Produtora de Papéis E Cartões Para Embalagens. Embalagens de Papelão Ondulado E Sacos Industriais. Além de Ser Recicladora E Produtora de Toras Para Serrarias.;Sim;http://www.klabin.com.br
+1987-12-08;13986;Suzano S.a.;Suzano;16404287000155;SUZB;Materiais Basicos;Madeira E Papel;Papel E Celulose;Indústria E Comércio de Papel E Celulose;Sim;http://www.suzano.com.br/ri

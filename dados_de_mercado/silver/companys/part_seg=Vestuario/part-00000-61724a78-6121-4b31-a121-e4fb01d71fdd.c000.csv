@@ -1,0 +1,3 @@
+data_fundacao;codigo_cvm;nome_empresa;nome_empresa_b3;cnpj;codigo_b3;setor_atuacao;subsetor_atuacao;segmento;atividade_principal;listada_b3;site_empresa
+1985-08-19;14761;Companhia Hering S.a.;Hering;78876950000171;HGTX;Consumo Ciclico;Tecidos, Vestuario E Calcados;Vestuario;Confecção de Artigos Do Vestuário E Acessórios;Sim;http://www.ciahering.com.br
+1988-08-19;25208;Track & Field Co S.a.;Track & Field;59418806000147;TFCO;Consumo Ciclico;Tecidos, Vestuario E Calcados;Vestuario;Atuação No Varejo Dos Setores de Vestuário. Acessórios E Calçados. Dentre Outros.;Sim;""

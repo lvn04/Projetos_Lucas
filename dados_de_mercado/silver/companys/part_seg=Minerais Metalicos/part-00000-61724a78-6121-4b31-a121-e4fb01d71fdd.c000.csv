@@ -1,0 +1,8 @@
+data_fundacao;codigo_cvm;nome_empresa;nome_empresa_b3;cnpj;codigo_b3;setor_atuacao;subsetor_atuacao;segmento;atividade_principal;listada_b3;site_empresa
+1942-06-01;4170;Vale S.a.;Vale;33592510000154;VALE;Materiais Basicos;Mineracao;Minerais Metalicos;Mineração;Sim;""
+1995-10-01;15091;Litel Participacoes Sa;Litel;00743065000127;LTEL;Materiais Basicos;Mineracao;Minerais Metalicos;"";Sim;http://www.litelbrasil.com.br
+1998-08-26;17914;Mmx Mineracao E Metalicos S.a.;Mmx Mineracao;02762115000149;MMXM;Materiais Basicos;Mineracao;Minerais Metalicos;Mineração de Minério de Ferro;Sim;http://www.mmx.com.br
+2000-03-30;18724;Bradespar S.a.;Bradespar;03847461000192;BRAP;Materiais Basicos;Mineracao;Minerais Metalicos;Participação Como Sócia Ou Acionista de Outras Sociedades.;Sim;http://www.bradespar.com
+2003-01-30;24759;Litela Participacoes S.a. - Em Liquidacao;Litela;05495546000184;LTLA;Materiais Basicos;Mineracao;Minerais Metalicos;A Cia Tem Como Atividade A Participação. Sob Qualquer Forma. No Capital de Outras Sociedades Civis Ou Comerciais. Atualmente. A Cia Tem Participação Somente Na Vale S.A.;Sim;""
+2007-06-12;25585;Csn Mineracao S.a.;Csn Mineracao;08902291000115;CMIN;Materiais Basicos;Mineracao;Minerais Metalicos;"Mineração E Comercialização de Minério de Ferro. Infraestrutura de Transporte Portuária; Geração de Energia E Participação em Sociedades Com Objeto Social Compatível Com O Da Companhia.";Sim;""
+1941-12-12;25984;Companhia Brasileira De Aluminio;Cba;61409892000173;CBAV;Materiais Basicos;Mineracao;Minerais Metalicos;Extração de Minério de Alumínio. Serviços de Usinagem. Caldeira E Montagem de Maquinário.;Sim;""

@@ -1,0 +1,3 @@
+data_fundacao;codigo_cvm;nome_empresa;nome_empresa_b3;cnpj;codigo_b3;setor_atuacao;subsetor_atuacao;segmento;atividade_principal;listada_b3;site_empresa
+1965-01-02;23574;International Meal Company Alimentacao S.a.;Imc Alimentacao;17314329000120;MEAL;Consumo Ciclico;Hoteis E Restaurantes;Restaurante E Similares;Setor de Varejo de Alimentação;Sim;http://www.internationalmealcompany.com
+2011-04-06;24317;Bk Brasil Operacao E Assessoria A Restaurantes S.a.;Bk Brasil;13574594000196;BKBR;Consumo Ciclico;Hoteis E Restaurantes;Restaurante E Similares;Prestação de Serviços de Operação E Assessoria A Restaurantes;Sim;http://www.burgerking.com.br/ri

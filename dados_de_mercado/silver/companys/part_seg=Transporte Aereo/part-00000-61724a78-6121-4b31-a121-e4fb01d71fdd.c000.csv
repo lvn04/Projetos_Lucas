@@ -1,0 +1,3 @@
+data_fundacao;codigo_cvm;nome_empresa;nome_empresa_b3;cnpj;codigo_b3;setor_atuacao;subsetor_atuacao;segmento;atividade_principal;listada_b3;site_empresa
+2004-03-12;19569;Gol Linhas Aereas Inteligentes S.a.;Gol;06164253000187;GOLL;Bens Industriais;Transporte;Transporte Aereo;Gestão de Participação Societária;Sim;http://www.voegol.com.br/ri
+2008-01-03;24112;Azul S.a.;Azul;09305994000129;AZUL;Bens Industriais;Transporte;Transporte Aereo;Transporte E Logística;Sim;http://www.voeazul.com.br

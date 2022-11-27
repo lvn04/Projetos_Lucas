@@ -1,0 +1,4 @@
+data_fundacao;codigo_cvm;nome_empresa;nome_empresa_b3;cnpj;codigo_b3;setor_atuacao;subsetor_atuacao;segmento;atividade_principal;listada_b3;site_empresa
+1968-11-11;15636;Companhia De Gas De Sao Paulo;Comgas;61856571000117;CGAS;Utilidade Publica;Gas;Gas;Setor de Atividade: Utilidade Pública: Distribuição de Gás Natural Canalizado.;Sim;http://www.comgas.com.br
+1969-05-28;16616;Companhia Distribuidora De Gas Do Rio De Janeiro;Naturgy (ceg);33938119000169;CEGR;Utilidade Publica;Gas;Gas;Distribuição de Gás Natural Na Região Metropolitana Do Estado Do Rio de Janeiro.;Sim;http://www.gasnaturalfenosa.com.br
+2014-11-12;25127;Compass Gas E Energia S.a.;Compass;21389501000181;PASS;Utilidade Publica;Gas;Gas;Holding de Empresas Do Setor de Gás Combustível Ou de Subprodutos E Derivados. Bem Como de água E Energia Elétrica.;Sim;""

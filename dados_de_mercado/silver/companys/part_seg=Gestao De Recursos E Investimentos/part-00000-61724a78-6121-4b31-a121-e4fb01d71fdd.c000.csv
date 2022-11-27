@@ -1,0 +1,3 @@
+data_fundacao;codigo_cvm;nome_empresa;nome_empresa_b3;cnpj;codigo_b3;setor_atuacao;subsetor_atuacao;segmento;atividade_principal;listada_b3;site_empresa
+1982-01-10;16772;Bndes Participacoes S.a. - Bndespar;Bndespar;00383281000109;"";Financeiro;Servicos Financeiros Diversos;Gestao De Recursos E Investimentos;"";Sim;http://www.bndes.gov.br
+1998-08-25;17922;Brazilian Finance & Real Estate S.a.;Brazilian Fr;02762113000150;BFRE;Financeiro;Servicos Financeiros Diversos;Gestao De Recursos E Investimentos;"";Sim;http://www.bfre.com.br

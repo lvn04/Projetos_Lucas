@@ -1,0 +1,9 @@
+data_fundacao;codigo_cvm;nome_empresa;nome_empresa_b3;cnpj;codigo_b3;setor_atuacao;subsetor_atuacao;segmento;atividade_principal;listada_b3;site_empresa
+1972-11-09;11258;Telecomunicacoes Brasileiras S.a.;Telebras;00336701000104;TELB;Comunicacoes;Telecomunicacoes;Telecomunicacoes;Consecução E Execução Das Políticas Públicas de Telecomunicação (decreto 9.612/2018).;Sim;http://www.telebras.com.br
+2000-02-28;11312;Oi S.a.;Oi;76535764000143;OIBR;Comunicacoes;Telecomunicacoes;Telecomunicacoes;"";Sim;http://www.oi.com.br/ri
+1998-05-22;17671;Telefonica Brasil S.a.;Vivo;02558157000162;VIVT;Comunicacoes;Telecomunicacoes;Telecomunicacoes;Prestação de Serviços de Telecomunicações. Exploração de Serviços de Valor Adicionado E Soluções Integradas.;Sim;http://www.telefonica.com.br
+2004-01-01;21032;Algar Telecom S/a;Algar Telec;71208516000174;ALGT;Comunicacoes;Telecomunicacoes;Telecomunicacoes;Serviços de Telecomunicações em Geral;Sim;http://www.algartelecom.com.br
+1998-02-11;24929;Tim S.a.;Tim;02421421000111;TIMS;Comunicacoes;Telecomunicacoes;Telecomunicacoes;"";Sim;""
+2006-05-18;26026;Desktop - Sigmanet Comunicacao Multimidia S.a.;Desktop;08170849000115;DESK;Comunicacoes;Telecomunicacoes;Telecomunicacoes;Serviços de Telefonia Fixa. Telecomunicações Sem Fio. Televisão Por Assinatura. Provedores de Acesso às Redes de Comunicações E Voz. Tratamento de Dados. Provedores de Serviços de Aplicação.;Sim;""
+1997-11-05;26050;Unifique Telecomunicacoes S.a.;Unifique;02255187000108;FIQE;Comunicacoes;Telecomunicacoes;Telecomunicacoes;Serviços de Comunicação Multimídia  Scm. Instalação E Manutenção Elétrica E Serviços de Telefonia Fixa Comutada - Stfc;Sim;""
+2014-02-19;26085;Brisanet Participacoes S.a.;Brisanet;19796586000170;BRIT;Comunicacoes;Telecomunicacoes;Telecomunicacoes;Participação em Sociedades Cujas Atividades Estejam Relacionadas A Serviços de Telecomunicações E Tecnologia;Sim;""

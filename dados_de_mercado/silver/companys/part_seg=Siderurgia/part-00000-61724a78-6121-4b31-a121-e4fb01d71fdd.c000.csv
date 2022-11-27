@@ -1,0 +1,6 @@
+data_fundacao;codigo_cvm;nome_empresa;nome_empresa_b3;cnpj;codigo_b3;setor_atuacao;subsetor_atuacao;segmento;atividade_principal;listada_b3;site_empresa
+1961-02-23;3069;Companhia De Ferro Ligas Da Bahia - Ferbasa;Ferbasa;15141799000103;FESA;Materiais Basicos;Siderurgia E Metalurgia;Siderurgia;Fabricação E Comercialização Dos Diversos Tipos de Ferroligas;Sim;http://www.ferbasa.com.br
+1961-11-20;3980;Gerdau S.a.;Gerdau;33611500000119;GGBR;Materiais Basicos;Siderurgia E Metalurgia;Siderurgia;Participação E Administração;Sim;http://www.gerdau.com
+1941-04-09;4030;Companhia Siderurgica Nacional;Siderurgica Nacional;33042730000104;CSNA;Materiais Basicos;Siderurgia E Metalurgia;Siderurgia;A Companhia Siderúrgica Nacional Atua Nos Setores de Mineração. Siderurgia. Logística. Cimento E Energia.;Sim;http://www.csn.com.br
+1939-08-24;8656;Metalurgica Gerdau S.a.;Metalurgica Gerdau;92690783000109;GOAU;Materiais Basicos;Siderurgia E Metalurgia;Siderurgia;Participação E Administração;Sim;http://www.gerdau.com
+1956-04-25;14320;Usinas Siderurgicas De Minas Gerais S.a.;Usiminas;60894730000105;USIM;Materiais Basicos;Siderurgia E Metalurgia;Siderurgia;Venda de Produtos Siderúrgicos. Como Chapas Grossas. Laminados A Quente. A Frio. Placas. Galvanizados. Entre Outros.;Sim;http://www.usiminas.com

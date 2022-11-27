@@ -1,0 +1,5 @@
+data_fundacao;codigo_cvm;nome_empresa;nome_empresa_b3;cnpj;codigo_b3;setor_atuacao;subsetor_atuacao;segmento;atividade_principal;listada_b3;site_empresa
+1945-11-05;2100;Cambuci S.a.;Cambuci;61088894000108;CAMB;Consumo Ciclico;Tecidos, Vestuario E Calcados;Calcados;"";Sim;http://www.cambuci.com.br/investidores
+1907-04-03;10456;Alpargatas S.a.;Alpargatas;61079117000105;ALPA;Consumo Ciclico;Tecidos, Vestuario E Calcados;Calcados;Indústria E Comércio de Calçados E Artigos Esportivos;Sim;http://www.alpargatas.com.br
+1952-07-29;11762;Vulcabras S.a.;Vulcabras;50926955000142;VULC;Consumo Ciclico;Tecidos, Vestuario E Calcados;Calcados;Representantes Comerciais E Agentes Do Comércio de Têxteis. Vestuário. Calçados E Artigos de Viagem.;Sim;http://www.vulcabrasazaleiari.com.br
+1971-02-25;19615;Grendene S.a.;Grendene;89850341000160;GRND;Consumo Ciclico;Tecidos, Vestuario E Calcados;Calcados;Fabricação de Calçados em Geral;Sim;http://www.grendene.com.br

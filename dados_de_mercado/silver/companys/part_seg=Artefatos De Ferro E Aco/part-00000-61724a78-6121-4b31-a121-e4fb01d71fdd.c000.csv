@@ -1,0 +1,4 @@
+data_fundacao;codigo_cvm;nome_empresa;nome_empresa_b3;cnpj;codigo_b3;setor_atuacao;subsetor_atuacao;segmento;atividade_principal;listada_b3;site_empresa
+1967-07-20;94;Panatlantica S.a.;Panatlantica;92693019000189;PATI;Materiais Basicos;Siderurgia E Metalurgia;Artefatos De Ferro E Aco;Industrialização E Comercialização de Aços Planos.;Sim;http://www.panatlantica.com.br
+1928-10-01;8397;Mangels Industrial S.a.;Mangels;61065298000102;MGEL;Materiais Basicos;Siderurgia E Metalurgia;Artefatos De Ferro E Aco;Produção de Relaminados. Trefilados E Perfilados de Aço. Exceto Arames.;Sim;http://www.mangels.com.br
+1939-01-01;11231;Tekno S.a. Industria E Comercio;Tekno;33467572000134;TKNO;Materiais Basicos;Siderurgia E Metalurgia;Artefatos De Ferro E Aco;Pintura de Bobinas E Chapas Metálicas;Sim;http://www.tekno.com.br
