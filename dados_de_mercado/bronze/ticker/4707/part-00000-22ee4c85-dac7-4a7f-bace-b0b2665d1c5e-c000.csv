@@ -1,0 +1,4 @@
+currency;isin;issuer_code;market;market_type;ticker;type
+BRL;BRBRGEACNPE1;BRGE;BVMF;exchange;BRGE11;stock
+BRL;BRBRGEACNPF8;BRGE;BVMF;exchange;BRGE12;stock
+BRL;BRBRGEACNOR6;BRGE;BVMF;exchange;BRGE3;stock
